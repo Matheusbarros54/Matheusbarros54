@@ -1,3 +1,9 @@
+# 🔵 Olá, me chamo Matheus Barros
+
+**`Analista de Sistemas (Programador)`**
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na SPTech School, em busca de aprendizado e crescimento na área de tecnologia. Atualmente, estou focado em aprimorar minhas habilidades e explorar novas oportunidades para aplicar meu conhecimento em cenários reais. Sou apaixonado por programação e motivado pelo desejo de enfrentar desafios e contribuir para projetos significativos.
+
 ## My Skills
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
