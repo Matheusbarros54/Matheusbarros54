@@ -7,7 +7,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na SPTech School, em bus
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,c,mysql,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=,html,css,javascript,c,nodejs,mysql,linux,git,github,figma" />
 </div>
 
