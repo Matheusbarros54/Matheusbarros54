@@ -1,16 +1,39 @@
-# 👋 Olá, me chamo Matheus Barros
+# 👋 Olá, eu sou o Matheus Barros
 
-**`💻 Desenvolvedor de Software`**
+**💻 Engenheiro DevOps**
 
-Tenho experiência prática com C# e execução de testes em projetos reais, utilizando ferramentas como SpecFlow para testes unitários, integrados e funcionais, além do K6 para testes de carga. Trabalho com metodologias ágeis (Scrum) e sempre busco aprimorar minhas habilidades para contribuir com soluções eficientes.
+Sou um profissional com experiência em desenvolvimento de software e infraestrutura moderna, atuando com automação, cloud e práticas DevOps para entregar soluções escaláveis, confiáveis e eficientes.
 
-Também possuo conhecimento em desenvolvimento full stack, incluindo HTML, CSS, JavaScript/TypeScript e React no front-end, Java e C# no back-end, com integração de banco de dados MySQL.
+---
 
-Na parte de infraestrutura e cloud, tenho familiaridade com Azure e AWS, incluindo provisionamento e automação, e sou certificado pela Microsoft nos exames AZ-900, DP-900 e AI-900. Além disso, utilizo Docker para conteinerização e gerenciamento de ambientes escaláveis.
+## 🛠️ Sobre mim
 
-<h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,javascript,ts,react,nodejs,java,dotnet,azure,aws,docker,mysql,linux,git," />
-</div>
+Tenho experiência com Python para automações, desenvolvimento back-end com Java e C#, front-end com React/TypeScript, e pipelines CI/CD construídos com GitHub Actions. Também trabalho com provisionamento de infraestrutura em nuvem, integração de qualidade de código e otimização de fluxos operacionais.
 
+Atualmente tenho **12 certificações GitHub** e **4 certificações Microsoft Azure**, reforçando meu compromisso com excelência técnica em automação e cloud.
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+### 💻 Linguagens & Frameworks
+HTML · CSS · JavaScript · TypeScript · React · Java (Spring) · C# (.NET / ASP.NET Core)
+
+### ☁️ Cloud & Infraestrutura
+Microsoft Azure · AWS · Terraform · Ansible · Docker
+
+### 🔁 DevOps & CI/CD
+GitHub · GitHub Actions · SonarQube · Backstage
+
+### ⚙️ Automação & Scripting
+Python · Linux
+
+### 🗄️ Banco de Dados
+MySQL
+
+
+---
+
+## 📬 Contato
+
+- 🔗 **LinkedIn:** [https://linkedin.com/in/matheus-barros  ](https://www.linkedin.com/in/matheusbarros--/)
