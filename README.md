@@ -10,7 +10,7 @@ Sou um profissional com experiência em desenvolvimento de software e infraestru
 
 Tenho experiência com Python para automações, desenvolvimento back-end com Java e C#, front-end com React/TypeScript, e pipelines CI/CD construídos com GitHub Actions. Também trabalho com provisionamento de infraestrutura em nuvem, integração de qualidade de código e otimização de fluxos operacionais.
 
-Atualmente tenho **12 certificações GitHub** e **4 certificações Microsoft Azure**, reforçando meu compromisso com excelência técnica em automação e cloud.
+Atualmente tenho **14 certificações GitHub** e **4 certificações Microsoft Azure**, reforçando meu compromisso com excelência técnica em automação e cloud.
 
 ---
 
